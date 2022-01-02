@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there , I'm Kola Gagan👋
+
+## About
+I am currently focusing on Spring framework. A beginner contributor at Open Source.
+
+I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+
+[LinkedIn](www.linkedin.com/in/gagankola)  [Twitter](https://twitter.com/Gagan_kola)
 
 <!--
 **gagan0207/gagan0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
